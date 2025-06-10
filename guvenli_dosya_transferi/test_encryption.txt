@@ -1,0 +1,3 @@
+Bu bir test dosyasıdır.
+Hibrit şifreleme testi.
+AES + RSA kombinasyonu.

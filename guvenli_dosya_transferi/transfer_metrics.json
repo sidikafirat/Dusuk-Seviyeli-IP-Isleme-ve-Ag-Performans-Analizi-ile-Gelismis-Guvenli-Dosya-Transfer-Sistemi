@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": "2025-06-10T12:46:28.846623",
+    "filename": "ornek.txt",
+    "file_size": 30,
+    "file_size_mb": 2.86102294921875e-05,
+    "duration": 0.07229399681091309,
+    "transfer_speed_mbps": 0.00039574834362828676,
+    "transfer_speed_kbps": 0.40524630387536564,
+    "packet_count": 1,
+    "mode": "TCP",
+    "success": true,
+    "throughput_mbps": 0.0033197777213469955
+  },
+  {
+    "timestamp": "2025-06-10T12:48:34.080104",
+    "filename": "ornek.txt",
+    "file_size": 0,
+    "file_size_mb": 0.0,
+    "duration": 2.0174455642700195,
+    "transfer_speed_mbps": 0.0,
+    "transfer_speed_kbps": 0.0,
+    "packet_count": 0,
+    "mode": "TCP",
+    "success": false,
+    "throughput_mbps": 0.0
+  },
+  {
+    "timestamp": "2025-06-10T12:48:43.575621",
+    "filename": "ornek.txt",
+    "file_size": 30,
+    "file_size_mb": 2.86102294921875e-05,
+    "duration": 0.029448747634887695,
+    "transfer_speed_mbps": 0.0009715261866787568,
+    "transfer_speed_kbps": 0.9948428151590469,
+    "packet_count": 1,
+    "mode": "TCP",
+    "success": true,
+    "throughput_mbps": 0.008149752341782912
+  },
+  {
+    "timestamp": "2025-06-10T14:36:04.384522",
+    "filename": "ornek.txt",
+    "file_size": 30,
+    "file_size_mb": 2.86102294921875e-05,
+    "duration": 0.020468950271606445,
+    "transfer_speed_mbps": 0.0013977379940130223,
+    "transfer_speed_kbps": 1.4312837058693348,
+    "packet_count": 1,
+    "mode": "TCP",
+    "success": true,
+    "throughput_mbps": 0.01172507611848159
+  },
+  {
+    "timestamp": "2025-06-10T14:44:35.346301",
+    "filename": "ornek.txt",
+    "file_size": 30,
+    "file_size_mb": 2.86102294921875e-05,
+    "duration": 1.7917273044586182,
+    "transfer_speed_mbps": 1.596795975648329e-05,
+    "transfer_speed_kbps": 0.01635119079063889,
+    "packet_count": 1,
+    "mode": "TCP",
+    "success": true,
+    "throughput_mbps": 0.00013394895495691378
+  },
+  {
+    "timestamp": "2025-06-10T14:50:18.117322",
+    "filename": "ornek.txt",
+    "file_size": 30,
+    "file_size_mb": 2.86102294921875e-05,
+    "duration": 1.6842083930969238,
+    "transfer_speed_mbps": 1.6987345277135796e-05,
+    "transfer_speed_kbps": 0.017395041563787055,
+    "packet_count": 1,
+    "mode": "TCP",
+    "success": true,
+    "throughput_mbps": 0.00014250018049054357
+  }
+]

@@ -1,0 +1,474 @@
+2025-04-24 00:29:10,011 - INFO - [*] Dinleniyor: 0.0.0.0:5001
+2025-04-24 00:29:41,789 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 00:29:41,797 - INFO - Paket oluþturuldu: test_files/ornek.txt.encrypted
+2025-04-24 00:29:41,797 - INFO - [+] Dosya gönderildi: test_files/ornek.txt.encrypted
+2025-04-24 00:29:41,797 - INFO - [+] ('127.0.0.1', 53028) baðlantý kurdu.
+2025-04-24 00:29:41,798 - INFO - [+] Dosya alýndý ve kaydedildi: test_files\alindi_ornek.txt.encrypted
+2025-04-24 00:29:41,801 - INFO - [\u2713] Þifre çözüldü ve dosya oluþturuldu: test_files\cozulmus_ornek.txt.txt
+2025-04-24 13:44:27,382 - INFO - Sunucu 127.0.0.1:5001 adresinde dinliyor...
+2025-04-24 13:46:22,440 - INFO - Sunucu 127.0.0.1:5001 adresinde dinliyor...
+2025-04-24 13:46:49,985 - INFO - Sunucu 127.0.0.1:5001 adresinde dinliyor...
+2025-04-24 13:47:01,320 - INFO - Dosya þifrelendi: test_files/ornek.txt.encrypted
+2025-04-24 13:47:01,325 - INFO - Paket oluþturuldu: test_files/ornek.txt.encrypted
+2025-04-24 13:47:01,325 - INFO - [+] Dosya gönderildi: test_files/ornek.txt.encrypted
+2025-04-24 13:47:01,325 - INFO - Baðlantý kabul edildi: ('127.0.0.1', 59380)
+2025-04-24 13:47:01,325 - INFO - [+] Veri alýndý: 150 bayt
+2025-04-24 13:47:01,326 - INFO - Þifreli dosya kaydedildi: received_file.encrypted
+2025-04-24 13:47:01,331 - INFO - Þifre çözme tamamlandý: received_file.decrypted
+2025-04-24 13:48:30,617 - INFO - Sunucu 127.0.0.1:5001 adresinde dinliyor...
+2025-04-24 14:03:54,277 - INFO - Sunucu baþlatýldý: 127.0.0.1:5001
+2025-04-24 14:04:36,101 - INFO - Sunucu baþlatýldý: 127.0.0.1:5001
+2025-04-24 14:06:12,521 - ERROR - Bir hata oluþtu: [WinError 10048] Normal olarak her yuva adresi (iletiþim kuralý/að adresi/baðlantý noktasý) için yalnýzca bir kullanýma izin veriliyor
+2025-04-24 14:06:20,550 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 14:06:20,551 - INFO - Baðlantý saðlandý: ('127.0.0.1', 59528)
+2025-04-24 14:06:20,560 - INFO - Dosya gönderildi: test_files/ornek.txt.encrypted
+2025-04-24 14:06:20,561 - INFO - Dosya alýndý ve kaydedildi: received_file.encrypted
+2025-04-24 14:06:20,562 - INFO - Dosya þifresi çözüldü: received_file.decrypted
+2025-04-24 14:09:09,438 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 14:10:41,807 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 14:12:52,042 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 14:14:57,032 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 14:28:26,634 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 14:40:03,516 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 14:40:03,524 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-04-24 14:53:06,808 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-24 14:53:06,816 - ERROR - Bir hata oluþtu: Windows native L3 Raw sockets are only usable as administrator ! Please install Npcap to workaround !
+2025-04-24 14:53:06,819 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-04-25 17:20:09,465 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-25 17:20:09,484 - ERROR - Bir hata oluþtu: Windows native L3 Raw sockets are only usable as administrator ! Please install Npcap to workaround !
+2025-04-25 17:20:09,488 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-04-25 18:13:11,769 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-25 18:13:11,793 - ERROR - Bir hata oluþtu: Windows native L3 Raw sockets are only usable as administrator ! Please install Npcap to workaround !
+2025-04-25 18:13:11,880 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-04-25 18:14:02,971 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-25 18:14:02,996 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-04-25 19:11:12,276 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-25 19:11:12,286 - ERROR - Bir hata oluþtu: name 'hashlib' is not defined
+2025-04-25 19:13:10,863 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-25 19:13:10,876 - ERROR - Bir hata oluþtu: name 'hashlib' is not defined
+2025-04-25 19:14:58,780 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-25 19:14:58,789 - ERROR - Bir hata oluþtu: name 'hashlib' is not defined
+2025-04-25 19:17:14,587 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-25 21:08:47,366 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-25 21:11:20,424 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-27 15:12:12,046 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-27 15:12:14,089 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-04-27 15:13:00,531 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-04-27 15:13:00,543 - ERROR - Bir hata oluþtu: [WinError 10053] Kurulan bir baðlantý, ana makinenizdeki yazýlým tarafýndan iptal edildi
+2025-05-11 21:53:46,858 - ERROR - Bir hata oluþtu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-05-11 22:32:23,822 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 22:32:23,823 - ERROR - Bir hata oluþtu: send_custom_ip_packet() missing 1 required positional argument: 'data'
+2025-05-11 22:36:43,261 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 22:43:02,741 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 22:43:04,760 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-05-11 22:43:17,240 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 22:45:51,905 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 22:45:51,920 - ERROR - Bir hata oluþtu: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-05-11 22:45:57,336 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 22:45:59,358 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-05-11 22:52:34,357 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 22:52:35,906 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-05-11 23:00:33,916 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 23:00:34,978 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-05-11 23:06:00,115 - ERROR - Bir hata oluþtu: pad() takes 1 positional argument but 2 were given
+2025-05-11 23:06:17,706 - ERROR - Bir hata oluþtu: pad() takes 1 positional argument but 2 were given
+2025-05-11 23:09:37,357 - ERROR - Bir hata oluþtu: pad() takes 1 positional argument but 2 were given
+2025-05-11 23:41:00,769 - ERROR - Bir hata oluþtu: [WinError 10048] Normal olarak her yuva adresi (iletiþim kuralý/að adresi/baðlantý noktasý) için yalnýzca bir kullanýma izin veriliyor
+2025-05-11 23:41:30,408 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-11 23:41:30,451 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-05-20 15:48:45,617 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-20 15:48:47,670 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-05-20 15:48:55,157 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-20 15:48:55,704 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-05-20 17:01:17,066 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-20 17:01:19,217 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-05-20 17:01:25,672 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-20 17:01:27,827 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-05-20 17:02:19,956 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-20 17:02:22,116 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-05-20 21:13:18,363 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-20 21:13:19,914 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-05-20 22:36:40,632 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-05-20 22:36:42,755 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 14:41:46,814 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 14:42:02,982 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 14:42:02,982 - ERROR - Bir hata oluþtu: name 'log_warning' is not defined
+2025-06-07 14:42:06,689 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 14:42:06,689 - ERROR - Bir hata oluþtu: name 'log_warning' is not defined
+2025-06-07 14:43:18,220 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 14:43:18,221 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 14:43:18,250 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 14:43:18,297 - ERROR - Bir hata oluþtu: Incorrect IV length (it must be 16 bytes long)
+2025-06-07 14:57:00,346 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 14:57:00,346 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 14:57:00,363 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 14:57:02,454 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 14:57:10,847 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 14:57:10,849 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 14:57:17,056 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 14:57:17,056 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 14:57:17,076 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 14:57:19,146 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 14:57:27,158 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 14:57:27,158 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 14:57:27,179 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:08:40,384 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:08:45,309 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:08:45,309 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:08:45,325 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:08:47,400 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 15:17:30,130 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:17:30,130 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:17:30,148 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:17:30,188 - ERROR - Bir hata oluþtu: 'utf-8' codec can't decode byte 0xb3 in position 2: invalid start byte
+2025-06-07 15:19:00,972 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:19:00,972 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:19:00,991 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:19:03,080 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 15:20:09,686 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:20:15,060 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:20:15,060 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:20:15,078 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:20:17,157 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 15:20:21,442 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:20:21,442 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:20:21,457 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:20:21,495 - ERROR - Bir hata oluþtu: 'utf-8' codec can't decode byte 0xdc in position 0: invalid continuation byte
+2025-06-07 15:28:43,633 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:28:49,189 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:28:49,189 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:28:49,209 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:28:51,306 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 15:29:05,460 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:29:05,460 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:29:05,478 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:34:16,962 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:34:21,921 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:34:21,921 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:34:21,939 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:34:24,007 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 15:34:31,729 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:34:31,729 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:34:31,746 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:36:11,956 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:36:25,991 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:36:25,991 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:36:26,010 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:43:31,417 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:43:46,364 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:43:46,364 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:43:46,383 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:45:55,660 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:46:11,261 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:46:11,262 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:46:11,278 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:46:11,331 - ERROR - Bir hata oluþtu: [WinError 10053] Kurulan bir baðlantý, ana makinenizdeki yazýlým tarafýndan iptal edildi
+2025-06-07 15:46:16,059 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:46:16,060 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:46:16,075 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:46:18,158 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 15:48:14,143 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:48:14,143 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:48:14,162 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:48:16,233 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 15:48:21,898 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:48:37,294 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:48:37,294 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:48:37,310 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:48:37,362 - ERROR - Token doðrulama hatasý: name 'AES' is not defined
+2025-06-07 15:51:12,338 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:51:27,568 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:51:27,568 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:51:27,585 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:55:20,311 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:55:49,147 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:55:49,147 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:55:49,165 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 15:58:50,532 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 15:59:05,679 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 15:59:05,679 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 15:59:05,696 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 16:03:43,291 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 16:04:00,042 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 16:04:00,042 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 16:04:00,057 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 16:04:07,787 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 16:04:23,323 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 16:04:23,323 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 16:04:23,341 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 16:09:43,421 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 16:09:57,501 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 16:09:57,501 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 16:09:57,519 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 16:15:33,790 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 16:15:55,022 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 16:15:55,022 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 16:15:55,039 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 16:16:47,310 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 16:17:04,906 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 16:17:04,906 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 16:17:04,924 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 16:23:46,628 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 16:24:03,818 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 16:24:03,818 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 16:24:03,836 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 16:34:55,840 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 16:35:25,133 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 16:35:25,134 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 16:35:25,151 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 16:40:39,109 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 16:40:56,792 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 16:40:56,792 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 16:40:56,812 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:03:59,069 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 17:04:12,637 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 17:04:12,637 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 17:04:12,655 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:04:51,825 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 17:05:05,817 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 17:05:05,817 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 17:05:05,835 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:05:29,029 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 17:05:46,549 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 17:05:46,550 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 17:05:46,566 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:08:43,322 - ERROR - iPerf sunucusu baþlatýlamadý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-06-07 17:08:49,093 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 17:08:49,094 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 17:08:49,111 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:08:51,200 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 17:09:00,981 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 17:09:00,981 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 17:09:00,998 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:09:01,042 - ERROR - Bir hata oluþtu: [WinError 10053] Kurulan bir baðlantý, ana makinenizdeki yazýlým tarafýndan iptal edildi
+2025-06-07 17:14:07,465 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:17:25,801 - ERROR - Bir hata oluþtu: name 'measure_bandwidth' is not defined
+2025-06-07 17:20:12,323 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 17:20:12,323 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 17:20:12,341 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:24:36,990 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 17:24:36,990 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 17:24:37,009 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 17:24:37,065 - ERROR - Bir hata oluþtu: name 'client_socket' is not defined
+2025-06-07 17:58:22,468 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 17:58:22,469 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 17:58:22,487 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 18:00:14,262 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 18:00:14,262 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 18:00:14,280 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 18:04:13,051 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 18:04:13,051 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 18:04:13,069 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 18:21:33,946 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 18:21:33,946 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 18:21:33,964 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 18:31:33,914 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 18:31:33,914 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 18:31:33,933 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 18:38:14,502 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 18:38:14,502 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 18:38:14,524 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:05:26,508 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 21:05:26,509 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 21:05:26,538 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:18:24,423 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 21:18:24,424 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 21:18:24,453 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:18:24,468 - ERROR - Bir hata oluþtu: cannot access local variable 's' where it is not associated with a value
+2025-06-07 21:22:19,794 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 21:22:19,795 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 21:22:19,822 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:24:38,235 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 21:24:38,235 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 21:24:38,267 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:30:41,211 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:30:41,212 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: c24b27dee470d3aa95a8fb698fb74b3f
+2025-06-07 21:36:18,728 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:36:18,729 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 92aba0171413ad6777b1f851673a13c2
+2025-06-07 21:40:42,120 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:40:42,121 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 1f98395c89ae6c4604c6c4c4dcee7dd6
+2025-06-07 21:41:05,100 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:41:05,101 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 6cae74351a231764d0c364aff229a3e9
+2025-06-07 21:50:15,994 - ERROR - Bir hata oluþtu: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-06-07 21:50:16,027 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 21:50:16,027 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 21:50:23,418 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:50:23,419 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 2055f401db88e3a4ef81053084e905e2
+2025-06-07 21:56:20,085 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:56:20,086 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: ce59a64761a334de566e9db3ee0c8589
+2025-06-07 21:56:20,099 - ERROR - Bir hata oluþtu: name 'verify_checksum' is not defined
+2025-06-07 21:56:20,119 - ERROR - Að ölçüm hatasý: iPerf hatasý: 'iperf3' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-06-07 21:56:20,119 - WARNING - Að ölçümü baþarýsýz, varsayýlan ayarlarla devam ediliyor
+2025-06-07 21:58:39,331 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 21:58:39,332 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 7e0e930be02b6d95eeddfa72acda6975
+2025-06-07 22:06:29,569 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:06:29,570 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 4a9f435cde7f81446779a033e5d9e01c
+2025-06-07 22:06:30,059 - ERROR - Receiver hatasý: Baðlantý kapandý veya veri eksik
+2025-06-07 22:09:16,051 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:09:16,052 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: cfb27caa9c199d0614842593802d2078
+2025-06-07 22:10:45,535 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:10:45,536 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 0ae0abb58667dd89b2cde03308836819
+2025-06-07 22:10:45,621 - ERROR - Receiver hatasý: Baðlantý kapandý veya veri eksik
+2025-06-07 22:11:15,999 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:11:16,000 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 6d999ba5dfde880e776ceb71c11728fc
+2025-06-07 22:11:16,773 - ERROR - Receiver hatasý: Baðlantý kapandý veya veri eksik
+2025-06-07 22:11:47,237 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:11:47,237 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: a1f540b07d3bd056e16fab59b50948f8
+2025-06-07 22:11:48,117 - ERROR - Receiver hatasý: Baðlantý kapandý veya veri eksik
+2025-06-07 22:13:02,873 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:13:02,874 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: ce19ae5ca4c78408b933e78844111d2e
+2025-06-07 22:18:14,425 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:18:14,426 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 6a9eb7c758d52d957b5c5b0450f690e3
+2025-06-07 22:18:14,467 - ERROR - Receiver hatasý: decrypt_file() missing 1 required positional argument: 'key'
+2025-06-07 22:22:08,611 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:22:08,612 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 595df21e18d20674f198c4709fccdb28
+2025-06-07 22:22:08,628 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: DECRYPT_FAILED
+2025-06-07 22:31:28,134 - INFO - Að performans verileri: {'bandwidth_mbps': 10.0, 'jitter_ms': 50.0, 'packet_loss': 2.0, 'retransmits': 1}
+2025-06-07 22:31:36,915 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-07 22:31:36,916 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: aeb36d93a910699d61cf351cd3c452ab
+2025-06-07 22:31:36,934 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-08 00:07:32,929 - INFO - Að performans verileri: {'bandwidth_mbps': 10.0, 'jitter_ms': 50.0, 'packet_loss': 2.0, 'retransmits': 1}
+2025-06-08 00:07:37,028 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-08 00:07:37,029 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 0071a41ef94efd36605fb9ceaaa45c97
+2025-06-08 00:07:37,057 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-08 00:20:44,699 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-08 00:20:44,700 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: a38e2f60ecfd8f65fc6522298075402d
+2025-06-08 00:20:44,728 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-08 00:33:47,544 - INFO - Að performans verileri: {'windows_network_analysis': True}
+2025-06-08 00:33:50,673 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-08 00:33:50,674 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: f3548fcb809f18bd2499ca67c737aa31
+2025-06-08 00:33:50,722 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-08 00:38:52,008 - ERROR - Receiver hatasý: Baðlantý kapandý veya veri eksik
+2025-06-08 00:43:56,555 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-08 00:43:56,556 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 348da7b3484c42b1300726d60452015d
+2025-06-08 00:43:56,607 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-08 00:47:25,484 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-08 00:47:25,485 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: f0ac4e92528c3eb7ed2796c95d906f88
+2025-06-08 00:47:25,502 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-08 21:23:36,098 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-08 21:23:36,099 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 6790b86963378e250c0c025c15373da8
+2025-06-08 21:23:36,119 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-08 21:24:28,133 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-08 21:24:28,134 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 9428d20ef5307efacbb3a480d2aa9bad
+2025-06-08 21:24:28,152 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-10 12:29:05,122 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-10 12:29:05,124 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 52cad714f66cc321b88f77735de0193a
+2025-06-10 12:29:05,156 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-10 12:40:22,640 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-10 12:40:22,642 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 9a208787abfe60474385b4a9d421e2ee
+2025-06-10 12:40:22,691 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-10 12:46:28,819 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-10 12:46:28,820 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 13ca35638e7c80989f40e69d468fdd19
+2025-06-10 12:46:28,863 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-10 12:48:43,551 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-10 12:48:43,551 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 8e3ea352bb9aaca186a86efcf80b7eb7
+2025-06-10 12:48:43,570 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-10 14:36:04,359 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-10 14:36:04,360 - INFO - Þifrelenmiþ dosya: test_files/ornek.txt.encrypted, Anahtar: 444cafb99e5f7ab6c286b72dbdd12835
+2025-06-10 14:36:04,378 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-10 14:44:35,214 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-10 14:44:35,234 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt
+2025-06-10 14:50:17,994 - INFO - Dosya þifrelendi: test_files/ornek.txt
+2025-06-10 14:50:18,012 - INFO - Alýnan dosya: received_encrypted_file.bin, Deþifrelenmiþ dosya: decrypted_file.txt

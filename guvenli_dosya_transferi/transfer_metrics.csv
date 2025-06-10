@@ -1,0 +1,2 @@
+timestamp,filename,file_size_bytes,duration_seconds,packet_count,transfer_speed_mbps,mode,success
+2025-06-10 12:40:22,ornek.txt,30,0.078,1,0.0,TCP,True
