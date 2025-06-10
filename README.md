@@ -2,21 +2,7 @@
 # 🔐 Gelişmiş Güvenli Dosya Transfer Sistemi  
 ### 💡 Düşük Seviyeli IP İşleme ve Ağ Performansı Analizi
 
-## 📜 İçindekiler
-- [Proje Hakkında](#-proje-hakkında)
-- [Temel Özellikler](#-temel-özellikler)
-- [Teknolojik Altyapı](#-kullanılan-teknolojiler)
-- [Sistem Mimarisi](#-sistem-mimarisi)
-- [Kurulum Rehberi](#-kurulum-adımları)
-- [Kullanım Kılavuzu](#-kullanım-kilavuzu)
-- [Performans Metrikleri](#-performans-analizi)
-- [Güvenlik Özellikleri](#-güvenlik-mimarisı)
-- [Wireshark Entegrasyonu](#-wireshark-entegrasyonu)
-- [Test Senaryoları](#-test-senaryoları)
-- [Katkıda Bulunma](#-katkıda-bulunma)
-- [Lisans Bilgisi](#-lisans)
 
----
 ## 📁 Proje Hakkında
 
 Bu proje, **AES-256 ve RSA-2048** şifreleme algoritmalarını kullanan, Python dili ile geliştirilmiş **hibrit şifreleme tabanlı bir dosya transfer sistemidir**. Proje aynı zamanda **manuel IP başlık oluşturma**, **gerçek IP parçalanması (fragmentation) simülasyonu**, **RTT/bant genişliği/jitter ölçümü**, **Wireshark ile entegrasyon**, **MITM ve sahte paket saldırıları** gibi ileri düzey ağ analizlerini de içermektedir.
@@ -258,8 +244,9 @@ class MetricsManager:
 ```
 
 ### Örnek Çıktılar
-![Transfer Hızları Grafiği](media/image20.png)
-![Başarı Oranı Grafiği](guvenli_dosya_transferi\performance_graphs_20250610_124638.png)
+![Transfer Hızları Grafiği](graphs/2.png)
+---
+![Başarı Oranı Grafiği](graphs/1.png)
 
 ---
 
@@ -318,19 +305,7 @@ tcp.analysis.lost_segment
 
 ---
 
-## 🧪 Test Senaryoları
 
-### Birim Testleri
-```bash
-# Şifreleme testleri
-python -m unittest test_encryption.py
-
-# Ağ modülü testleri
-python -m unittest test_network.py
-
-# Entegrasyon testi
-python test_integration.py
-```
 
 ### Performans Testleri
 | Test Adı              | Komut                     | Beklenen Sonuç           |
@@ -386,14 +361,11 @@ Copyright (c) 2025 Sıdıka Fırat
 
 ## ✉️ İletişim
 
-**Sıdıka Fırat**  
-📧 sidika.firat@ornek.edu.tr  
-🌐 [Kişisel Website](https://ornek.com)  
-🔗 [LinkedIn Profili](https://linkedin.com/in/ornek)
+**Sıdıka Firat**  
+🔗 [LinkedIn Profili](www.linkedin.com/in/sıdıka-firat-05ba42254)
 
-Proje Linki: [GitHub Repo](https://github.com/kullanici/guvenli-transfer)
+Proje Linki: [GitHub Repo](https://github.com/sidikafirat/Dusuk-Seviyeli-IP-Isleme-ve-Ag-Performans-Analizi-ile-Gelismis-Guvenli-Dosya-Transfer-Sistemi)
 
-![Proje QR Kodu](media/qrcode.png)
 
-```
+
 
