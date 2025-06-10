@@ -190,6 +190,11 @@ echo "Bu bir test dosyasıdır." > test_files/ornek.txt
 ---
 
 ## 🖥️ Kullanım Kılavuzu
+### Youtube Rapor Linki
+```bash
+https://youtu.be/5DRHN19J1yQ
+```
+
 
 ### Temel Transfer Senaryosu
 ```bash
